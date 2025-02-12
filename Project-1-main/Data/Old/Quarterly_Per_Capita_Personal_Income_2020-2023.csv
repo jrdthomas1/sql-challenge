@@ -1,0 +1,17 @@
+"SQINC1 State quarterly personal income summary: personal income, population, per capita personal income"
+"SQINC1 State quarterly personal income summary: personal income, population, per capita personal income"
+State or DC
+GeoFips,GeoName,2020:Q1,2020:Q2,2020:Q3,2020:Q4,2021:Q1,2021:Q2,2021:Q3,2021:Q4,2022:Q1,2022:Q2,2022:Q3,2022:Q4,2023:Q1,2023:Q2,2023:Q3,2023:Q4
+00000,United States,56595,60862,59742,59271,66742,63332,63609,64106,64766,65577,66822,67766,68684,69519,70140,70851
+06000,California,66330,70512,72381,71363,78904,75699,76411,76261,75718,76032,77316,78658,79882,80970,81711,82408
+12000,Florida,54623,58120,56829,56522,64412,60965,61225,62132,62542,63850,65426,66445,67737,68450,68870,69674
+19000,Iowa,50072,54981,52333,53060,60425,57884,57479,57112,59942,61034,62515,62768,62417,62421,63021,63219
+36000,New York,67345,72304,71836,69991,78487,74921,75068,75458,75781,76635,77936,79510,80213,82041,83247,83753
+48000,Texas,53152,56358,55101,54613,62031,58871,59305,60504,61157,62427,63808,64522,65560,65860,66433,67093
+50000,Vermont,55786,61509,57785,57243,64184,59713,59665,59933,61980,63041,64067,65408,65953,66818,66938,67991
+53000,Washington,65145,69670,68225,67770,75634,72903,72680,73284,74232,74885,76222,77430,79061,80727,81359,82531
+
+Legend/Footnotes
+"2. Per capita personal income is total personal income divided by total quarterly population estimates. BEA produced intercensal population statistics for the second quarter of 2010 to the first quarter of 2020 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data in 2024."
+"Note. Millions of dollars, seasonally adjusted at annual rates. All dollar estimates are in current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"  Last updated: September 27, 2024-- new statistics for 2024:Q2; revised statistics for 2019:Q1-2024:Q1."

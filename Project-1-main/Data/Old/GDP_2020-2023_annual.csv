@@ -1,0 +1,13 @@
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+"SASUMMARY State annual summary statistics: personal income, GDP, consumer spending, price indexes, and employment"
+State or DC
+GeoFips,GeoName,2019,2020,2021,2022,2023
+00000,United States,21539982.0,21354105.0,23681171.0,26006893.0,27720709.0
+06000,California,3068629.7,3076755.1,3423958.3,3660415.7,3870378.9
+12000,Florida,1133718.0,1142004.4,1298631.2,1465281.1,1600810.6
+36000,New York,1787470.9,1773369.8,1923413.3,2052758.8,2172009.6
+48000,Texas,1864872.3,1802143.7,2088972.3,2436925.0,2583866.2
+53000,Washington,608643.4,620132.9,687702.3,742909.5,807864.5
+
+Legend/Footnotes
+"  Last updated: October 3, 2024."
